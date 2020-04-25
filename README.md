@@ -1,7 +1,7 @@
 # Java Makefile
 [![GitHub license](https://img.shields.io/github/license/AlexandreLadriere/Java-Makefile.svg)](https://github.com/AlexandreLadriere/Java-Makefile/blob/master/LICENSE)
 
-The [make.sh] script is a basic _Makefile_ shell script for Java projects which can be useful if you are developing without an IDE and/or if you want something really fast to build your project.
+I know that the concept of Makefile for Java project is stupid, but I think that having something like this script can be really useful if you are not developing with an IDE and if you want somthing really simple and quick to build your project.  
 
 __You have to place this script at the root of your Java project, and run it from this root.__
 
